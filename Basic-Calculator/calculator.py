@@ -11,10 +11,7 @@ elif operator == "/":
 	print( "Answer is" ,firstNumber/secondNumber)
 elif operator == "*":
 	print(" Answer is" , firstNumber*secondNumber)
-	
-a=1
-print(a)
-print(f"{a}")
+
 	
 	
 	
